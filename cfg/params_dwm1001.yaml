@@ -1,0 +1,7 @@
+port1: "/dev/ttyUSB3"
+port2: "/dev/ttyUSB2"
+port3: "/dev/ttyUSB1"
+tag_name: "tag"
+use_network: False
+network: "dwm1001_network"
+verbose: True
